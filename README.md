@@ -1,0 +1,2 @@
+# Ad_ViewPage
+使用ViewPager制作一个与淘宝同款的广告轮播效果
